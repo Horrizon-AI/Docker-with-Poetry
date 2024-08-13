@@ -1,0 +1,41 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+.venv
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Editor files
+.vscode/
+
+# Environment and configuration
+.env
+.envrc
+
+# macOS and Windows files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
