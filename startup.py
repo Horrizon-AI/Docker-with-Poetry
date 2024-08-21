@@ -1,1 +1,1 @@
-from docker_with_poetry import app
+from docker_with_poetry.app import app
